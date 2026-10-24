@@ -1,0 +1,20 @@
+1. Jenkins Build Failure
+You have configured a Jenkins Freestyle project to build your application. Suddenly, the build fails even though it worked correctly yesterday.
+
+Question: How will you identify the reason for the build failure and troubleshoot it?
+
+
+2. Jenkins Agent Offline
+You have configured a Jenkins controller and an AWS EC2 instance as a Jenkins agent. Suddenly, the agent status changes to Offline, and Jenkins cannot execute jobs on it.
+
+Question: What are the possible reasons for this issue, and how will you bring the agent back online?
+
+
+3. Automating Code Deployment
+Your development team pushes new code to a GitHub repository every day. You want Jenkins to automatically build the application whenever new code is pushed to GitHub.
+
+Question: How will you configure Jenkins to automatically trigger a build when code is pushed to GitHub?
+
+4. partial deployment on Jenkins
+
+5.Master-slave configuration
