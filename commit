@@ -4,7 +4,7 @@ You have configured a Jenkins Freestyle project to build your application. Sudde
 Question: How will you identify the reason for the build failure and troubleshoot it?
 
 
-new built2
+new built2 code
 
 2. Jenkins Agent Offline
 You have configured a Jenkins controller and an AWS EC2 instance as a Jenkins agent. Suddenly, the agent status changes to Offline, and Jenkins cannot execute jobs on it.
